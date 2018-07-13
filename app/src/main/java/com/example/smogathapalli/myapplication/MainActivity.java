@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         int bsdjbvs = 100;
 
+        int bsdjbvs123 = 100;
+
     }
 }
