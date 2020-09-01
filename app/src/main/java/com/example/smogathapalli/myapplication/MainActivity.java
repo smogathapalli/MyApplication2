@@ -26,5 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         int y = 200;
 
+        int y2 = 300;
+
     }
 }
