@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         int test = 100;
 
-        int x = 10;
+        int x1 = 10;
 
         int y = 200;
 
