@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         int i = 3000;
 
 
-        int ie = 200;
+        int ie = 2000;
 
         int bsdjbvs = 200;
 
