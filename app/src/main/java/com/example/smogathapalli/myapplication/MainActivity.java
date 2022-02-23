@@ -24,11 +24,11 @@ public class MainActivity extends AppCompatActivity {
 
         int x1 = 100000;
 
-        int y1 = 2000;
+        int y1 = 20;
 
         int y2 = 60;
 
-        int y3 = 4000;
+        int y3 = 40;
 
     }
 }
