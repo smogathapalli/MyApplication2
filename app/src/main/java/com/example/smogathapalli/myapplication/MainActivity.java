@@ -11,12 +11,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int i = 500000;
+        int i = 50;
 
 
-        int ie = 20000;
+        int ie = 20;
 
-        int bsdjbvs = 20000;
+        int bsdjbvs = 20;
 
         int bsdjbvs123 = 30;
 
