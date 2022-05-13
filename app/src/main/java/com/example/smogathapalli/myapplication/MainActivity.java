@@ -17,17 +17,17 @@ public class MainActivity extends AppCompatActivity {
 
         int bsdjbvs = 2;
 
-        int bsdjbvs123 = 30;
+        int bsdjbvs123 = 3;
 
-        int test = 20;
+        int test = 2;
 
-        int x1 = 10;
+        int x1 = 1;
 
-        int y1 = 20;
+        int y1 = 2;
 
-        int y2 = 60;
+        int y2 = 6;
 
-        int y3 = 40;
+        int y3 = 4;
 
     }
 }
