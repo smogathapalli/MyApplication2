@@ -13,11 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 55;
 
-        int ie = 2;
+        int ie = 22;
 
-        int bsdjbvs = 2;
+        int bsdjbvs = 22;
 
-        int bsdjbvs123 = 3;
+        int bsdjbvs123 = 33;
 
         int test = 2;
 
