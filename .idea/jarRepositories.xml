@@ -91,5 +91,10 @@
       <option name="name" value="injected_offline_Android Studio Chipmunk _ 2021.2.1 Patch 2 " />
       <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Android%20Studio%20Chipmunk%20_%202021.2.1%20Patch%202%20/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_gmaven_repo-EE-B3" />
+      <option name="name" value="injected_offline_gmaven_repo-EE-B3" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/gmaven_repo-EE-B3/" />
+    </remote-repository>
   </component>
 </project>
