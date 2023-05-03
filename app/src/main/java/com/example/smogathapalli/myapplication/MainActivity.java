@@ -21,12 +21,12 @@ public class MainActivity extends AppCompatActivity {
 
         int test = 222;
 
-        int x1 = 1;
+        int x1 = 111;
 
-        int y1 = 2;
+        int y1 = 222;
 
-        int y2 = 6;
+        int y2 = 666;
 
-        int y3 = 4
+        int y3 = 444;
     }
 }
