@@ -11,15 +11,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int i = 5555;
+        int i = 5;
 
-        int ie = 2222;
+        int ie = 2;
 
-        int bsdjbvs = 2222;
+        int bsdjbvs = 2;
 
-        int bsdjbvs123 = 3333;
+        int bsdjbvs123 = 3;
 
-        int test = 2222;
+        int test = 2;
 
         int x1 = 1111;
 
