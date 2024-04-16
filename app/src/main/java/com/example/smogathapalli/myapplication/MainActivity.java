@@ -19,14 +19,14 @@ public class MainActivity extends AppCompatActivity {
 
         int bsdjbvs123 = 300;
 
-        int test = 2000;
+        int test = 200;
 
-        int x1 = 10000;
+        int x1 = 100;
 
-        int y1 = 2222;
+        int y1 = 222;
 
-        int y2 = 6666;
+        int y2 = 666;
 
-        int y3 = 4444;
+        int y3 = 444;
     }
 }
